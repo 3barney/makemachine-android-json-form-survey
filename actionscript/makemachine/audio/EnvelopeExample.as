@@ -1,3 +1,6 @@
+/**
+ * As seen here: http://labs.makemachine.net/2010/06/envelope-generator/
+ */
 package makemachine.audio
 {
 	import com.bit101.components.*;

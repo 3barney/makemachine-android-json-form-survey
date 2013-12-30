@@ -1,3 +1,6 @@
+/**
+ * As seen here: http://labs.makemachine.net/?s=slice+tool
+ */
 package makemachine.audio
 {
 	import com.bit101.components.*;

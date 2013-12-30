@@ -1,3 +1,6 @@
+/**
+ * As seen here: http://labs.makemachine.net/2010/07/echo/
+ */
 package makemachine.audio
 {
 	import com.bit101.components.*;

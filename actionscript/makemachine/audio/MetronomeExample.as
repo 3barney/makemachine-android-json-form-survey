@@ -1,3 +1,7 @@
+/**
+ * As seen here: http://labs.makemachine.net/2010/06/metronome/
+ */
+
 package makemachine.audio
 {
 	import com.bit101.components.*;

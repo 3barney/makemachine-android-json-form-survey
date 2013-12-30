@@ -1,3 +1,6 @@
+/**
+ * As seen here: http://labs.makemachine.net/2010/08/tremelo/
+ */
 package makemachine.audio
 {
 	import com.bit101.components.*;

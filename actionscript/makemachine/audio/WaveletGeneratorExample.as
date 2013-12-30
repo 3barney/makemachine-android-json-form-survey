@@ -1,3 +1,6 @@
+/**
+ * As seen here: http://labs.makemachine.net/2010/09/wavetable-synthesis-round-1/
+ */
 package makemachine.audio
 {
 	import com.bit101.components.*;

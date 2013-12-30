@@ -1,3 +1,6 @@
+/**
+ * As seen here: http://labs.makemachine.net/2010/07/seeking-and-timecode-w-dynamic-audio/
+ */
 package makemachine.audio
 {
 	import com.bit101.components.*;
